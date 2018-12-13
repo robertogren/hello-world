@@ -1,2 +1,2 @@
 # hello-world
-Hello world mandatory first baby steps
+Hello world - I am noone special, but I try to learn current tools --Robert
